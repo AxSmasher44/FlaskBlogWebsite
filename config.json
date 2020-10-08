@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/dopecode",
+    "prod_uri": "mysql://root:@localhost/dopecode",
+    "fb_url": "https://facebook.com/dopecode",
+    "tw_url": "https://twitter.com/dopecode",
+    "gh_url": "https://github.com/dopecode",
+    "blog_name": "DopeCode",
+    "tag_line": "A Blog for Bwaoys and Gals who like to code!",
+    "gmail_user": "advikkulkarni@gmail.com",
+    "gmail_pass": "ozqipojyrheiycdd",
+    "about_text": "Hey! My name is Advik and I'm a guy who loves coding and is currently in 11th grade!",
+    "no_of_posts": 2,
+    "login_image": "logo.png",
+    "admin_username": "admin",
+    "admin_password": "root",
+    "upload_location": "D:\\Programming\\Python\\BlogPost-Flask\\static\\img"
+  }
+
+}
